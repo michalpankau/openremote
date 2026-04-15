@@ -6,6 +6,16 @@ import {EventProvider, EventProviderFactory, EventProviderStatus, WebSocketEvent
 import i18next, {InitOptions} from "i18next";
 import i18nextBackend from "i18next-http-backend";
 import moment from "moment";
+import "moment/locale/nl";
+import "moment/locale/fr";
+import "moment/locale/de";
+import "moment/locale/it";
+import "moment/locale/pl";
+import "moment/locale/pt";
+import "moment/locale/ro";
+import "moment/locale/es";
+import "moment/locale/uk";
+import "moment/locale/zh-cn";
 import {
     AssetModelUtil,
     Auth,
@@ -80,10 +90,11 @@ export const DEFAULT_LANGUAGES: Languages = {
     fr: "french",
     de: "german",
     it: "italian",
+    pl: "polish",
     pt: "portuguese",
     ro: "romanian",
     es: "spanish",
-    uk: "ukrainian"
+    uk: "ukrainian"    
 };
 
 export function normaliseConfig(config: ManagerConfig): ManagerConfig {
