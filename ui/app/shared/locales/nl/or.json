@@ -996,8 +996,8 @@
   "realmRole": {
     "admin": "Super admin"
   },
-  "mqttSessions": "mqttSessions",
-  "noMqttSessions": "This user has no active MQTT sessions": "MQTT sessies",
+  "mqttSessions": "MQTT sessies",
+  "noMqttSessions": "Deze gebruiker heeft geen actieve MQTT-sessies",
   "address": "Adres",
   "since": "Vanaf",
   "roles": "Rollen",
