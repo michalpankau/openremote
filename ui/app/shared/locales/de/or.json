@@ -192,7 +192,7 @@
   "french": "Französisch",
   "german": "Deutsch",
   "italian": "Italienisch",
-  "polish" : "Polnisch",
+  "polish": "Polnisch",
   "portuguese": "Portugiesisch",
   "romanian": "Rumänisch",
   "spanish": "Spanisch",
@@ -673,7 +673,6 @@
         }
       }
     }
-  }
-,
+  },
   "realmAlreadyExists": "Realm-Name existiert bereits"
 }

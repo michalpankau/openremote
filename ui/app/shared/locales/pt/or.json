@@ -176,7 +176,7 @@
   "french": "Francês",
   "german": "Alemão",
   "italian": "Italiano",
-  "polish" : "Polaco",
+  "polish": "Polaco",
   "portuguese": "Portugues",
   "romanian": "Romeno",
   "spanish": "Espanhol",
@@ -628,7 +628,6 @@
         }
       }
     }
-  }
-,
+  },
   "realmAlreadyExists": "O nome do domínio já existe"
 }

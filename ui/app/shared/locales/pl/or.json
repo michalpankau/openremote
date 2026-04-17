@@ -178,7 +178,7 @@
   "month": "Miesiąc",
   "year": "Rok",
   "period": "Okres",
-  "beginning" : "Rozpoczęcie",
+  "beginning": "Rozpoczęcie",
   "ending": "Zakończenie",
   "prefix": "Prefiks",
   "prefixDefault": "Domyślny prefiks",
@@ -614,13 +614,13 @@
       "WeatherAsset": "Pogoda",
       "EnvironmentSensorAsset": "Czujnik środowiskowy",
       "GroundwaterSensorAsset": "Czujnik wód gruntowych",
-      "SoilSensorAsset" : "Czujnik gleby",
-      "IrrigationAsset" : "System nawadniania",
+      "SoilSensorAsset": "Czujnik gleby",
+      "IrrigationAsset": "System nawadniania",
       "PeopleCounterAsset": "Licznik osób",
       "LightAsset": "Oświetlenie",
-      "MicrophoneAsset" : "Mikrofon",
-      "ThermostatAsset" : "Termostat",
-      "VentilationAsset" : "Wentylator",
+      "MicrophoneAsset": "Mikrofon",
+      "ThermostatAsset": "Termostat",
+      "VentilationAsset": "Wentylator",
       "ElectricityAsset": "Zasób elektryczny",
       "ElectricityConsumerAsset": "Odbiornik energii elektrycznej",
       "ElectricityProducerSolarAsset": "Panel fotowoltaiczny",
@@ -631,7 +631,7 @@
       "GatewayAsset": "Bramka",
       "ParkingAsset": "Parking",
       "VehicleAsset": "Pojazd",
-      "ElectricVehicleAsset" : "Pojazd elektryczny",
+      "ElectricVehicleAsset": "Pojazd elektryczny",
       "ShipAsset": "Statek",
       "PlugAsset": "Gniazdko elektryczne",
       "PresenceSensorAsset": "Czujnik obecności",
@@ -897,11 +897,11 @@
   },
   "metaOverrides": {
     "label": {
-      "location" : "Lokalizacja"
+      "location": "Lokalizacja"
     }
   },
   "attributeOverrides": {
-    "label": { }
+    "label": {}
   },
   "addMetaItems": "Dodaj elementy konfiguracji",
   "loseChanges": "Odrzucić zmiany?",
