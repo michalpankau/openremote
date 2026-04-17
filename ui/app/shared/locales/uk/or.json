@@ -731,8 +731,8 @@
     "deleteMapCustomizationConfirm": "Ви впевнені, що хочете видалити це налаштування карти?",
     "addMapCustomization": "Додати налаштування карти"
   },
-  "mqttSessions": "mqttSessions",
-  "noMqttSessions": "This user has no active MQTT sessions": "Сеанси MQTT",
+  "mqttSessions": "Сеанси MQTT",
+  "noMqttSessions": "Цей користувач не має активних сеансів MQTT",
   "address": "Адреса",
   "since": "З тих пір, як",
   "roles": "Ролі",
