@@ -695,8 +695,8 @@
     "deleteMapCustomizationConfirm": "Ești sigur că dorești să ștergi această personalizare a hărții?",
     "addMapCustomization": "Adaugă setari harta"
   },
-  "mqttSessions": "mqttSessions",
-  "noMqttSessions": "This user has no active MQTT sessions": "Sesiuni MQTT",
+  "mqttSessions": "Sesiuni MQTT",
+  "noMqttSessions": "Acest utilizator nu are sesiuni MQTT active",
   "address": "Adresa",
   "since": "Din",
   "roles": "Roluri",
